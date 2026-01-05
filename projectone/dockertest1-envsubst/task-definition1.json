@@ -54,9 +54,9 @@
   "networkMode": "awsvpc",
   "memory": "512",
   "cpu": "256",
-  "executionRoleArn": "arn:aws:iam::212458924932:role/ecsTaskExecutionRole",
+  "executionRoleArn": "arn:aws:iam::898940391782:role/ecsTaskExecutionRole",
   "family": "reddogcontainer",
-  "taskRoleArn": "arn:aws:iam::212458924932:role/ecsTaskExecutionRole",
+  "taskRoleArn": "arn:aws:iam::898940391782:role/ecsTaskExecutionRole",
   "runtimePlatform": {
       "operatingSystemFamily": "LINUX"
   },
